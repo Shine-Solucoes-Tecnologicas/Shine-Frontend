@@ -1,5 +1,13 @@
-node_modules
-dist
+node_modules/
+dist/
 .env
+.env.*
+!.env.example
 *.local
-.vite
+.vite/
+*.log
+coverage/
+*.tsbuildinfo
+.npm/
+.cache/
+.vscode-test/
