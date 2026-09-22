@@ -11,3 +11,7 @@ coverage/
 .npm/
 .cache/
 .vscode-test/
+.tools/
+playwright-report/
+test-results/
+blob-report/
